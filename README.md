@@ -1,6 +1,6 @@
 ¡Hola!
 
-A continuación os muestro algunas imágenes de la aplicación EmpleosApp corriendo en local:
+A continuación os muestro algunas imágenes de la aplicación "empleos" corriendo en local:
 ![Login](https://github.com/josmasec/Spring-Boot/assets/47139313/1354cd49-0456-458d-8da2-983ebd76f917)
 ![Página principal](https://github.com/josmasec/Spring-Boot/assets/47139313/901ce3e7-e219-44e9-a28b-ec8345d69e69)
 ![Solicitudes](https://github.com/josmasec/Spring-Boot/assets/47139313/c0a3b22f-c79d-4b5b-a462-fd5b0e2525c4)
